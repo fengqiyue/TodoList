@@ -26,6 +26,6 @@ npm test
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-##
+## 2016.9.13
 * **功能** ：最基本的增加项目，把项目设置为完成，删除项目已经实现完毕
 * **样式** ：非常简陋，接下来增加观赏性
