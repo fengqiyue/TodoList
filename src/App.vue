@@ -104,17 +104,17 @@ li:hover .destroy:after {
 }
 
 .toggle {
-  margin-left:0px;
-  float:left;
   text-align: center;
 	width: 40px;
 	/* auto, since non-WebKit browsers doesn't support input styling */
 	height: auto;
+	/*position: absolute;*/
 	top: 0;
 	bottom: 0;
 	margin: auto 0;
 	border: none; /* Mobile Safari */
-  border-radius:100%;
+	-webkit-appearance: none;
+	appearance: none;
 }
 
 .finished {
@@ -126,12 +126,6 @@ li:hover .destroy:after {
     display:none;
     float:right;
 }
-
-
-
-
-
-
 
 
 
